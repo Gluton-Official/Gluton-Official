@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Gluton&api_domain=wakapi.gluton.dev&bg_color=141414&title_color=00ED8B&icon_color=2F855A&text_color=ffffff&custom_title=This%20Week's%20Stats&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Gluton&api_domain=wakapi.gluton.dev&bg_color=0000&title_color=00ED8B&icon_color=2F855A&text_color=ffffff&custom_title=This%20Week's%20Stats&layout=compact)
